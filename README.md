@@ -9,4 +9,6 @@
       firstname VARCHAR(30) NOT NULL,
       lastname VARCHAR(30) NOT NULL,
       email VARCHAR(50)
-    )
+    );
+    
+    INSERT INTO users (firstname, lastname, email) VALUES ('Pratya', 'Mkaa', 'ksjd@gmail.com');
